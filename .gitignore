@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+client/node_modules/
+backend/node_modules/
+ml-service/__pycache__/
+ml-service/*.pyc
+ml-service/venv/
+
+# Environment files (IMPORTANT - never commit these)
+backend/.env
+client/.env
+.env
+
+# Build outputs
+client/dist/
+client/build/
+
+# ML model files (large)
+ml-service/models/*.joblib
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+__pycache__/
+ml-service/processed/deliveries.csv
+ml-service/processed/deliveries.csv
+ml-service/processed/*.csv
+ml-service/data/
+ml-service/models/*.joblib
+*.pkl
+*.h5
+*.csv

@@ -1,0 +1,12 @@
+{
+  "feature_cols": [
+    "batting_avg",
+    "strike_rate",
+    "hundreds",
+    "venue_avg_score",
+    "innings_difficulty"
+  ],
+  "std_dev": 35.27734337155864,
+  "mae": 23.468226477275657,
+  "r2": 0.12997085992961488
+}

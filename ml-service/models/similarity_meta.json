@@ -1,0 +1,16 @@
+{
+  "feature_cols": [
+    "batting_avg",
+    "strike_rate",
+    "total_runs",
+    "hundreds",
+    "fifties",
+    "highest_score",
+    "wickets",
+    "bowling_avg",
+    "economy",
+    "bowling_sr"
+  ],
+  "total_players": 1025,
+  "model": "cosine_similarity"
+}
