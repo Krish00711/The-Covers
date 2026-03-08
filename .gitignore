@@ -16,7 +16,6 @@ client/dist/
 client/build/
 
 # ML model files (large)
-ml-service/models/*.joblib
 
 # Logs
 *.log
@@ -33,7 +32,6 @@ ml-service/processed/deliveries.csv
 ml-service/processed/deliveries.csv
 ml-service/processed/*.csv
 ml-service/data/
-ml-service/models/*.joblib
 *.pkl
 *.h5
 *.csv
