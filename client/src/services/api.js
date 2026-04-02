@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://the-covers-backend.onrender.com/api/v1';
+const API_BASE_URL = 'https://the-covers-backend-zxfj.onrender.com/api/v1';
 
 // Create axios instance with default config
 const api = axios.create({
